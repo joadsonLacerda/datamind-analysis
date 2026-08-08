@@ -1,0 +1,41 @@
+id_venda,data,cliente,cidade,regiao,vendedor,categoria,produto,quantidade,preco_unitario,custo_unitario,desconto,forma_pagamento,status
+1001,2026-01-03,Carlos Silva,Salvador,Nordeste,Ana,Notebook,Notebook Pro 14,1,4500,3200,0.05,Pix,Concluida
+1002,2026-01-04,Maria Santos,Ilheus,Nordeste,Bruno,Smartphone,Smartphone X,2,2800,1900,0.10,Cartao,Concluida
+1003,2026-01-05,Joao Oliveira,Sao Paulo,Sudeste,Carlos,Monitor,Monitor 27 4K,1,2100,1400,0.05,Cartao,Concluida
+1004,2026-01-06,Ana Costa,Salvador,Nordeste,Ana,Teclado,Teclado Mecânico,3,450,220,0.10,Pix,Concluida
+1005,2026-01-07,Pedro Souza,Rio de Janeiro,Sudeste,Daniel,Notebook,Notebook Air 13,1,3800,2900,0.05,Cartao,Concluida
+1006,2026-01-08,Lucas Almeida,Belo Horizonte,Sudeste,Carlos,Mouse,Mouse Gamer,5,180,70,0.15,Pix,Concluida
+1007,2026-01-09,Juliana Lima,Recife,Nordeste,Bruno,Smartphone,Smartphone X,1,2800,1900,0.05,Cartao,Concluida
+1008,2026-01-10,Rafael Santos,Salvador,Nordeste,Ana,Cadeira,Cadeira Gamer,2,1300,800,0.10,Pix,Concluida
+1009,2026-01-11,Fernanda Alves,Sao Paulo,Sudeste,Carlos,Notebook,Notebook Pro 14,2,4500,3200,0.20,Cartao,Concluida
+1010,2026-01-12,Marcos Pereira,Curitiba,Sul,Daniel,Monitor,Monitor 24,2,1200,750,0.05,Pix,Concluida
+1011,2026-01-13,Beatriz Rocha,Salvador,Nordeste,Ana,Teclado,Teclado Mecânico,2,450,220,0.05,Cartao,Concluida
+1012,2026-01-14,Gabriel Martins,Porto Alegre,Sul,Carlos,Mouse,Mouse Gamer,10,180,70,0.30,Pix,Concluida
+1013,2026-01-15,Carolina Mendes,Recife,Nordeste,Bruno,Smartphone,Smartphone Pro,1,5200,3700,0.10,Cartao,Concluida
+1014,2026-01-16,Thiago Ferreira,Salvador,Nordeste,Ana,Notebook,Notebook Air 13,1,3800,2900,0.05,Pix,Concluida
+1015,2026-01-17,Renata Gomes,Sao Paulo,Sudeste,Carlos,Cadeira,Cadeira Gamer,1,1300,800,0.05,Cartao,Concluida
+1016,2026-01-18,Diego Castro,Rio de Janeiro,Sudeste,Daniel,Monitor,Monitor 27 4K,1,2100,1400,0.05,Pix,Concluida
+1017,2026-01-19,Patricia Ramos,Salvador,Nordeste,Ana,Smartphone,Smartphone X,3,2800,1900,0.25,Cartao,Concluida
+1018,2026-01-20,Andre Barbosa,Curitiba,Sul,Daniel,Mouse,Mouse Gamer,4,180,70,0.05,Pix,Concluida
+1019,2026-01-21,Camila Martins,Recife,Nordeste,Bruno,Notebook,Notebook Pro 14,1,4500,3200,0.10,Cartao,Concluida
+1020,2026-01-22,Roberto Dias,Salvador,Nordeste,Ana,Monitor,Monitor 24,2,1200,750,0.05,Pix,Concluida
+1021,2026-02-01,Carlos Silva,Salvador,Nordeste,Ana,Smartphone,Smartphone Pro,1,5200,3700,0.05,Cartao,Concluida
+1022,2026-02-02,Maria Santos,Ilheus,Nordeste,Bruno,Notebook,Notebook Air 13,1,3800,2900,0.10,Pix,Concluida
+1023,2026-02-03,Joao Oliveira,Sao Paulo,Sudeste,Carlos,Monitor,Monitor 27 4K,2,2100,1400,0.05,Cartao,Concluida
+1024,2026-02-04,Ana Costa,Salvador,Nordeste,Ana,Mouse,Mouse Gamer,3,180,70,0.10,Pix,Concluida
+1025,2026-02-05,Pedro Souza,Rio de Janeiro,Sudeste,Daniel,Notebook,Notebook Pro 14,1,4500,3200,0.05,Cartao,Concluida
+1026,2026-02-06,Lucas Almeida,Belo Horizonte,Sudeste,Carlos,Teclado,Teclado Mecânico,5,450,220,0.15,Pix,Concluida
+1027,2026-02-07,Juliana Lima,Recife,Nordeste,Bruno,Smartphone,Smartphone X,2,2800,1900,0.10,Cartao,Concluida
+1028,2026-02-08,Rafael Santos,Salvador,Nordeste,Ana,Cadeira,Cadeira Gamer,1,1300,800,0.05,Pix,Concluida
+1029,2026-02-09,Fernanda Alves,Sao Paulo,Sudeste,Carlos,Notebook,Notebook Pro 14,1,4500,3200,0.50,Cartao,Concluida
+1030,2026-02-10,Marcos Pereira,Curitiba,Sul,Daniel,Monitor,Monitor 24,1,1200,750,0.05,Pix,Concluida
+1031,2026-02-11,Beatriz Rocha,Salvador,Nordeste,Ana,Teclado,Teclado Mecânico,2,450,220,0.05,Cartao,Concluida
+1032,2026-02-12,Gabriel Martins,Porto Alegre,Sul,Carlos,Mouse,Mouse Gamer,20,180,70,0.40,Pix,Concluida
+1033,2026-02-13,Carolina Mendes,Recife,Nordeste,Bruno,Smartphone,Smartphone Pro,1,5200,3700,0.10,Cartao,Concluida
+1034,2026-02-14,Thiago Ferreira,Salvador,Nordeste,Ana,Notebook,Notebook Air 13,1,3800,2900,0.05,Pix,Concluida
+1035,2026-02-15,Renata Gomes,Sao Paulo,Sudeste,Carlos,Cadeira,Cadeira Gamer,2,1300,800,0.05,Cartao,Concluida
+1036,2026-02-16,Diego Castro,Rio de Janeiro,Sudeste,Daniel,Monitor,Monitor 27 4K,1,2100,1400,0.05,Pix,Concluida
+1037,2026-02-17,Patricia Ramos,Salvador,Nordeste,Ana,Smartphone,Smartphone X,4,2800,1900,0.60,Cartao,Concluida
+1038,2026-02-18,Andre Barbosa,Curitiba,Sul,Daniel,Mouse,Mouse Gamer,5,180,70,0.05,Pix,Concluida
+1039,2026-02-19,Camila Martins,Recife,Nordeste,Bruno,Notebook,Notebook Pro 14,1,4500,3200,0.10,Cartao,Concluida
+1040,2026-02-20,Roberto Dias,Salvador,Nordeste,Ana,Monitor,Monitor 24,3,1200,750,0.05,Pix,Concluida
